@@ -18,6 +18,9 @@ L'énergie solaire est une source d'énergie propre et inépuisable qui offre de
 
 Dans notre quête pour réduire notre dépendance aux combustibles fossiles et lutter contre le changement climatique, les capteurs solaires thermiques se présentent comme une solution prometteuse. Ces dispositifs ingénieux utilisent la puissance du soleil pour générer de la chaleur, offrant ainsi une alternative écologique et économique aux systèmes de chauffage traditionnels. Dans cette présentation, nous plongerons dans le monde des capteurs solaires thermiques et découvrirons comment ils peuvent contribuer à une transition énergétique plus durable.
 
+
+## **Vraie Introduction :**
+Dans notre quête pour réduire notre dépendance aux combustibles fossiles et lutter contre le changement climatique, les capteurs solaires thermiques se présentent comme une solution prometteuse. Ces dispositifs ingénieux utilisent la puissance du soleil pour générer de la chaleur, offrant ainsi une alternative écologique et économique aux systèmes de chauffage traditionnels.
 ## **Introduction 3:**
 
 Imaginez pouvoir utiliser la puissance du soleil pour chauffer votre maison, votre eau ou même votre piscine. Les capteurs solaires thermiques rendent cela possible en capturant les rayons du soleil et en les transformant en chaleur utilisable. Dans cette présentation, nous explorerons les différentes technologies de capteurs solaires thermiques et comprendrons comment elles fonctionnent pour exploiter l'énergie solaire de manière efficace et rentable. Préparez-vous à découvrir comment ces dispositifs innovants peuvent contribuer à un avenir énergétique plus propre et plus durable.
