@@ -71,5 +71,9 @@ Cependant, les capteurs solaires plans vitrés ont également quelques limitatio
 Malgré ces limitations, les capteurs solaires plans vitrés restent une option populaire et efficace pour la capture de l'énergie solaire et la production de chaleur. Leur utilisation peut contribuer à la réduction de la dépendance aux combustibles fossiles et à la promotion d'une utilisation plus durable de l'énergie.
 
 ### 
+
+**Les capteurs solaires** plans vitrés sont des dispositifs qui convertissent l'énergie solaire en chaleur utilisable. Ils sont composés d'un panneau plat recouvert d'une vitre transparente, permettant aux rayons du soleil de pénétrer et d'atteindre une surface absorbante en dessous. Cette surface transfère ensuite la chaleur à un fluide caloporteur, tel que de l'eau, pour une utilisation dans le chauffage de l'eau ou de l'air. Les capteurs solaires plans vitrés offrent des avantages tels que leur coût abordable, leur intégration esthétique dans les bâtiments et leur contribution à la réduction des émissions de gaz à effet de serre. Cependant, ils sont sensibles à l'orientation et à l'inclinaison, et leur efficacité peut être affectée par des facteurs tels que l'ombrage ou la saleté sur la surface vitrée. Malgré ces limitations, ils restent une option populaire pour la capture de l'énergie solaire et la promotion d'une utilisation plus durable de l'énergie, réduisant ainsi notre dépendance aux combustibles fossiles.
+
+### 
 [https://openai.com](https://openai.com)  
 [https://fr.wikipedia.org/wiki/Capteur_solaire_thermique](https://fr.wikipedia.org/wiki/Capteur_solaire_thermique)
