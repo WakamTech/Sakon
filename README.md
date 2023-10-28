@@ -32,3 +32,8 @@ Dans notre quête pour réduire notre dépendance aux combustibles fossiles et l
 
 
 Il existe différents types de capteurs solaires thermiques. Dans la littérature ils sont généralement classés dans deux grandes familles, les capteurs sans concentration (stationnaires) et les capteurs à concentration équipés d'un système de suivi (traqueur) de la course du Soleil3,8,9. Les capteurs sur traqueur se différencient par ailleurs selon que le suivi s'effectue suivant un axe ou deux axes. Les caractéristiques d'un capteur déterminent sa plage de températures de fonctionnement et donc les applications pouvant être couvertes3.
+
+
+## **Capteurs solaires stationnaires :**
+
+Les capteurs solaires thermiques stationnaires sont des dispositifs qui permettent de capturer et d'utiliser l'énergie solaire pour produire de la chaleur de manière efficace et durable. Contrairement aux capteurs solaires mobiles qui suivent le mouvement du soleil, les capteurs solaires thermiques stationnaires sont fixés dans une position fixe, généralement orientée vers le sud pour maximiser l'exposition au soleil. 
