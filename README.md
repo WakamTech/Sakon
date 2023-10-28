@@ -57,6 +57,19 @@ IV. Les capteurs solaires hybrides :
 Principe de fonctionnement : combinaison de capteurs solaires thermiques et photovoltaïques pour produire à la fois de la chaleur et de l'électricité.
 Avantages et inconvénients : utilisation polyvalente de l'énergie solaire, maximisation de la production énergétique, mais complexité de conception et coût plus élevé.
 
+## **Capteurs solaires plans vitrés :**
+Les capteurs solaires plans vitrés sont des dispositifs qui permettent de capturer l'énergie solaire et de la convertir en chaleur utilisable. Ils sont composés d'un panneau plat recouvert d'une vitre transparente qui agit comme une couche protectrice et permet de maximiser l'absorption de la chaleur solaire.
+
+Le fonctionnement des capteurs solaires plans vitrés repose sur le principe de l'effet de serre. La vitre transparente permet aux rayons du soleil de pénétrer à travers elle et d'atteindre une surface absorbante située en dessous. Cette surface absorbante est généralement constituée de tubes métalliques ou d'ailettes en métal qui sont en contact direct avec un fluide caloporteur, tel que de l'eau ou un mélange d'eau et d'antigel.
+
+Lorsque les rayons du soleil frappent la surface absorbante, ils sont convertis en chaleur. Cette chaleur est ensuite transférée au fluide caloporteur qui circule à travers les tubes ou les ailettes. Le fluide chaud peut ensuite être utilisé pour le chauffage de l'eau, le chauffage de l'air ou d'autres applications de chauffage.
+
+Les capteurs solaires plans vitrés offrent plusieurs avantages. Tout d'abord, ils sont relativement abordables et faciles à installer. De plus, leur conception plate et discrète les rend esthétiquement agréables et adaptés à une intégration harmonieuse dans les bâtiments. Ils sont également efficaces pour capturer la chaleur solaire, ce qui permet de réaliser des économies d'énergie et de réduire les émissions de gaz à effet de serre.
+
+Cependant, les capteurs solaires plans vitrés ont également quelques limitations. Ils sont sensibles à l'orientation et à l'inclinaison, ce qui signifie qu'ils fonctionnent mieux lorsqu'ils sont correctement orientés vers le soleil. De plus, leur efficacité peut être réduite par des facteurs tels que l'ombrage, la saleté ou l'accumulation de neige sur la surface vitrée.
+
+Malgré ces limitations, les capteurs solaires plans vitrés restent une option populaire et efficace pour la capture de l'énergie solaire et la production de chaleur. Leur utilisation peut contribuer à la réduction de la dépendance aux combustibles fossiles et à la promotion d'une utilisation plus durable de l'énergie.
+
 ### 
 [https://openai.com](https://openai.com)  
 [https://fr.wikipedia.org/wiki/Capteur_solaire_thermique](https://fr.wikipedia.org/wiki/Capteur_solaire_thermique)
