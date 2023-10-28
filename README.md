@@ -58,5 +58,5 @@ Principe de fonctionnement : combinaison de capteurs solaires thermiques et phot
 Avantages et inconvénients : utilisation polyvalente de l'énergie solaire, maximisation de la production énergétique, mais complexité de conception et coût plus élevé.
 
 ### 
-[https://openai.com](https://openai.com)
-###[https://fr.wikipedia.org/wiki/Capteur_solaire_thermique](https://fr.wikipedia.org/wiki/Capteur_solaire_thermique)
+[https://openai.com](https://openai.com)  
+[https://fr.wikipedia.org/wiki/Capteur_solaire_thermique](https://fr.wikipedia.org/wiki/Capteur_solaire_thermique)
