@@ -113,6 +113,29 @@ Les avantages des capteurs solaires à concentration équipés d'un système de 
 
 Cependant, les capteurs solaires à concentration équipés d'un système de suivi de la course du soleil peuvent être plus complexes et coûteux à installer et à entretenir. Ils nécessitent des mécanismes de suivi précis et fiables pour suivre avec précision le mouvement du soleil. De plus, leur efficacité peut être affectée par des conditions météorologiques défavorables, comme les nuages ou le brouillard.
 
-Malgré ces défis, les capteurs solaires à concentration équipés d'un système de suivi de la course du soleil offrent un potentiel important pour l'utilisation de l'énergie solaire à des températures élevées. Leur capacité à maximiser l'utilisation de l'énergie solaire disponible en fait une technologie prometteuse pour la production d'énergie propre et durable.
+Malgré ces défis, les capteurs solaires à concentration équipés d'un système de suivi de la course du soleil offrent un potentiel important pour l'utilisation de l'énergie solaire à des températures élevées. Leur capacité à maximiser l'utilisation de l'énergie solaire disponible en fait une technologie prometteuse pour la production d'énergie propre et durable.  
+
+## 
+**Les capteurs solaires thermiques à concentration** peuvent être classés en différentes configurations ou types en fonction de leur conception et de leur mode de concentration des rayons solaires. Voici quelques-uns des types courants de capteurs solaires thermiques à concentration :
+
+1. Capteurs solaires à concentration par réflecteurs paraboliques :
+   - Ces capteurs utilisent des réflecteurs paraboliques pour concentrer les rayons solaires sur un tube récepteur placé le long de la ligne focale du réflecteur. Le tube récepteur contient un fluide caloporteur qui absorbe la chaleur et la transfère à un système de stockage ou à un processus de chauffage.
+
+2. Capteurs solaires à concentration par réflecteurs cylindro-paraboliques :
+   - Ces capteurs utilisent des réflecteurs cylindro-paraboliques pour concentrer les rayons solaires sur un tube récepteur placé au-dessus du réflecteur. Le tube récepteur est généralement rempli d'un fluide caloporteur qui absorbe la chaleur et la transfère à un système de stockage ou à un processus de chauffage.
+
+3. Capteurs solaires à concentration par tour solaire :
+   - Ce type de capteur utilise un champ de miroirs ou de réflecteurs pour concentrer les rayons solaires vers une tour centrale. La tour contient un récepteur qui absorbe la chaleur et la transfère à un fluide caloporteur. Ce fluide est ensuite utilisé pour produire de la vapeur, qui alimente une turbine pour générer de l'électricité.
+
+4. Capteurs solaires à concentration par disques paraboliques :
+   - Ces capteurs utilisent des disques paraboliques pour concentrer les rayons solaires sur un récepteur central. Le récepteur peut être un tube rempli de fluide caloporteur ou un moteur Stirling qui convertit la chaleur en énergie mécanique.
+
+5. Capteurs solaires à concentration par fresnel :
+   - Ces capteurs utilisent des lentilles de Fresnel pour concentrer les rayons solaires sur un récepteur linéaire. Le récepteur peut être un tube rempli de fluide caloporteur ou un matériau thermoélectrique qui convertit la chaleur en électricité.
+
+Chaque configuration de capteur solaire à concentration a ses propres avantages et inconvénients en termes d'efficacité, de coût, de complexité de conception et d'applications spécifiques. Le choix du type de capteur solaire à concentration dépendra des besoins et des contraintes du projet.  
+
+
+
 [https://openai.com](https://openai.com)  
 [https://fr.wikipedia.org/wiki/Capteur_solaire_thermique](https://fr.wikipedia.org/wiki/Capteur_solaire_thermique)
