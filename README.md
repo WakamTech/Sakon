@@ -84,5 +84,17 @@ Cependant, les capteurs solaires plans non vitrés ont également quelques limit
 
 Malgré ces limitations, les capteurs solaires plans non vitrés restent une option intéressante pour la capture de l'énergie solaire et la production de chaleur. Leur simplicité, leur coût réduit et leur résistance aux problèmes d'ombrage en font une solution viable dans de nombreuses applications, contribuant ainsi à la transition vers une utilisation plus durable de l'énergie solaire.
 ### 
+
+## **Les capteurs solaires** à tubes sous vide sont des dispositifs avancés qui permettent de capturer l'énergie solaire et de la convertir en chaleur utilisable de manière très efficace. Ils sont constitués de tubes en verre sous vide, également appelés tubes à vide, qui sont disposés parallèlement les uns aux autres sur une plaque métallique.
+
+Le fonctionnement des capteurs solaires à tubes sous vide repose sur le principe de l'effet de serre. Chaque tube sous vide contient un absorbeur métallique qui absorbe les rayons du soleil et les convertit en chaleur. L'absorbeur est entouré d'un vide, ce qui réduit les pertes de chaleur par conduction et convection. De plus, chaque tube est recouvert d'une couche sélective qui permet de maximiser l'absorption des rayons solaires tout en minimisant les pertes de chaleur par rayonnement.
+
+Le fluide caloporteur, généralement de l'eau ou un mélange d'eau et d'antigel, circule à travers les tubes sous vide et absorbe la chaleur transférée par l'absorbeur. Ce fluide chaud peut ensuite être utilisé pour le chauffage de l'eau, le chauffage de l'air ou d'autres applications de chauffage.
+
+Les capteurs solaires à tubes sous vide offrent plusieurs avantages. Tout d'abord, ils ont une excellente efficacité énergétique grâce à leur conception à double paroi et à leur vide interne, ce qui permet de minimiser les pertes de chaleur. De plus, ils sont moins sensibles aux variations de température et peuvent fonctionner efficacement même par temps froid. Ils sont également durables et ont une longue durée de vie.
+
+Cependant, les capteurs solaires à tubes sous vide peuvent être plus coûteux que d'autres types de capteurs solaires en raison de leur technologie avancée. De plus, leur installation peut être plus complexe en raison du nombre de tubes à gérer.
+
+Malgré ces considérations, les capteurs solaires à tubes sous vide sont largement utilisés dans les applications de chauffage solaire, en particulier dans les régions où les températures sont basses. Leur efficacité élevée et leur capacité à fonctionner dans des conditions difficiles en font une option attrayante pour ceux qui cherchent à exploiter l'énergie solaire de manière efficace et durable.
 [https://openai.com](https://openai.com)  
 [https://fr.wikipedia.org/wiki/Capteur_solaire_thermique](https://fr.wikipedia.org/wiki/Capteur_solaire_thermique)
