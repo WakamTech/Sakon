@@ -40,4 +40,19 @@ Les capteurs solaires thermiques stationnaires sont des dispositifs qui permette
 
 
 ## 
-Les capteurs solaires thermiques stationnaires sont des dispositifs qui permettent de capturer et d'utiliser l'énergie solaire pour produire de la chaleur de manière efficace et durable. Contrairement aux capteurs solaires mobiles qui suivent le mouvement du soleil, les capteurs solaires thermiques stationnaires sont fixés dans une position fixe, généralement orientée vers le sud pour maximiser l'exposition au soleil. 
+I. Les capteurs solaires thermiques à plaques planes :
+Principe de fonctionnement : absorption de la chaleur par des plaques planes exposées au soleil, transfert de chaleur à un fluide caloporteur.
+Avantages et inconvénients : simplicité de conception, coût abordable, mais moins efficaces dans des conditions de faible ensoleillement.
+
+###
+II. Les capteurs solaires à tubes sous vide :
+Principe de fonctionnement : utilisation de tubes sous vide pour minimiser les pertes de chaleur, absorption de la chaleur par des tubes métalliques, transfert de chaleur à un fluide caloporteur.
+Avantages et inconvénients : haute efficacité, performances élevées même par temps froid, mais coût plus élevé.
+###
+III. Les capteurs solaires à concentration :
+Principe de fonctionnement : utilisation de miroirs ou de lentilles pour concentrer les rayons solaires sur un point focal, où la chaleur est capturée et transférée à un fluide caloporteur.
+###
+Avantages et inconvénients : haute efficacité, adaptés aux applications à haute température, mais coût élevé et nécessitent un suivi précis du soleil.
+IV. Les capteurs solaires hybrides :
+Principe de fonctionnement : combinaison de capteurs solaires thermiques et photovoltaïques pour produire à la fois de la chaleur et de l'électricité.
+Avantages et inconvénients : utilisation polyvalente de l'énergie solaire, maximisation de la production énergétique, mais complexité de conception et coût plus élevé.
