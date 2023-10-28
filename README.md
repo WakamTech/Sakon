@@ -37,3 +37,7 @@ Il existe différents types de capteurs solaires thermiques. Dans la littératur
 ## **Capteurs solaires stationnaires :**
 
 Les capteurs solaires thermiques stationnaires sont des dispositifs qui permettent de capturer et d'utiliser l'énergie solaire pour produire de la chaleur de manière efficace et durable. Contrairement aux capteurs solaires mobiles qui suivent le mouvement du soleil, les capteurs solaires thermiques stationnaires sont fixés dans une position fixe, généralement orientée vers le sud pour maximiser l'exposition au soleil. 
+
+
+## 
+Les capteurs solaires thermiques stationnaires sont des dispositifs qui permettent de capturer et d'utiliser l'énergie solaire pour produire de la chaleur de manière efficace et durable. Contrairement aux capteurs solaires mobiles qui suivent le mouvement du soleil, les capteurs solaires thermiques stationnaires sont fixés dans une position fixe, généralement orientée vers le sud pour maximiser l'exposition au soleil. 
