@@ -26,3 +26,9 @@ Imaginez pouvoir utiliser la puissance du soleil pour chauffer votre maison, vot
 
 ## **Vraie Introduction :**
 Dans notre quête pour réduire notre dépendance aux combustibles fossiles et lutter contre le changement climatique, les capteurs solaires thermiques se présentent comme une solution prometteuse. Ces dispositifs ingénieux utilisent la puissance du soleil pour générer de la chaleur, offrant ainsi une alternative écologique et économique aux systèmes de chauffage traditionnels. Parmi les différentes technologies solaires, les capteurs solaires thermiques jouent un rôle essentiel dans la conversion de l'énergie solaire en chaleur utilisable. Ces dispositifs ingénieux permettent de capturer les rayons du soleil et de les transformer en chaleur pour le chauffage de l'eau, de l'air ou d'autres fluides. 
+
+
+## **Types de capteurs solaires :**
+
+
+Il existe différents types de capteurs solaires thermiques. Dans la littérature ils sont généralement classés dans deux grandes familles, les capteurs sans concentration (stationnaires) et les capteurs à concentration équipés d'un système de suivi (traqueur) de la course du Soleil3,8,9. Les capteurs sur traqueur se différencient par ailleurs selon que le suivi s'effectue suivant un axe ou deux axes. Les caractéristiques d'un capteur déterminent sa plage de températures de fonctionnement et donc les applications pouvant être couvertes3.
