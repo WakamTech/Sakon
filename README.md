@@ -56,3 +56,7 @@ Avantages et inconvénients : haute efficacité, adaptés aux applications à ha
 IV. Les capteurs solaires hybrides :
 Principe de fonctionnement : combinaison de capteurs solaires thermiques et photovoltaïques pour produire à la fois de la chaleur et de l'électricité.
 Avantages et inconvénients : utilisation polyvalente de l'énergie solaire, maximisation de la production énergétique, mais complexité de conception et coût plus élevé.
+
+### 
+[link_1](https://openai.com)
+
